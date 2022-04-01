@@ -1,4 +1,4 @@
-# azure-cloud-shell-developing-environment <br>
+# azure-cloud-shell-with-github-and-ngrok <br>
 ### 1. Login github
 ```
 user@Azure:~$ gh auth login
